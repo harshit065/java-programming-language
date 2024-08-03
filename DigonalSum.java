@@ -21,4 +21,4 @@ public class DigonalSum {
     }
 }
 
-//TIME COMPLEXITY - O(N).
+//TIME COMPLEXITY - O(n).
